@@ -1,1 +1,1 @@
-# News-updates
+# news-update-with-the-help-of-api-
